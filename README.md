@@ -33,7 +33,7 @@ A clean and modern **Login/Sign Up form** built using **React** and **Tailwind C
 ### 📥 Installation:
 
 ```bash
-git clone https://github.com/yourusername/login-signup-toggle.git
-cd login-signup-toggle
+git clone https://github.com/yourusername/login-page.git
+cd login-page
 npm install
 npm run dev  # or npm start if using Create React App
